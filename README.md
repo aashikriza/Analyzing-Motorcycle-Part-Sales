@@ -1,4 +1,5 @@
-![Parked motorcycle](motorcycle.jpg)
+![Motorcycle Wikipedia Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMotorcycle&psig=AOvVaw2I6A2bD9bGbQqxaH4aKOgx&ust=1718389754079000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNj9nYGb2YYDFQAAAAAdAAAAABAJ)
+
 
 You're working for a company that sells motorcycle parts, and they've asked for some help in analyzing their sales data!
 
